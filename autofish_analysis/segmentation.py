@@ -18,7 +18,6 @@ from tqdm import tqdm
 
 from .utils.segmentation_processing import (erase_small_nuclei, erase_solitary,
                                             stitch3D_z)
-from cellpose import models  ## speed import
 
 
 def folder_segmentation(path_to_staining,

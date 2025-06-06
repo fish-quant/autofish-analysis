@@ -9,10 +9,10 @@ The package is specially designed to work with the autoFISH project https://gith
 
 ### Installation
 
-Fisrt create a conda environnement with the required packages:
+Fisrt install the required packages:
 
 ```bash
-conda env create --file autofish_analysis.yml 
+python -m pip install -r requirements.txt
 ```
 
 

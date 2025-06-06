@@ -1,0 +1,11 @@
+
+
+numpy==2.2.6
+pandas==2.3.0
+tifffile==2025.5.10
+scikit-image==0.25.2
+matplotlib==3.10.3
+tqdm== 4.67.1
+SimpleITK==2.5.0
+big-fish==0.6.2
+cellpose==3.0.1
