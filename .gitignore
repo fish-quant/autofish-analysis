@@ -68,10 +68,10 @@ Thumbs.db
 .ipynb_checkpoints
 
 # files
-.tif
-.tiff
-.png
-.npy
-.svg
-.csv
+*.tif
+*.tiff
+*.png
+*.npy
+*.svg
+*.csv
 
