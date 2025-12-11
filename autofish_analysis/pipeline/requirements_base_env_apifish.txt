@@ -1,0 +1,10 @@
+apifish==0.6.4.dev0
+cellpose[gui]==3.1.0
+pyqt5
+ipython
+napari
+nd2reader
+ipykernel
+readlif
+ipywidgets
+notebook
